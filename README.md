@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nimaj2002
-- 👀 I’m interested in FrontEnd
-- 🌱 I’m currently learning FrontEnd
-- 💞️ I’m looking to collaborate on FrontEnd based projects
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Pytho
+- 💞️ I’m looking to collaborate on Python based projects
 - 📫 How to reach me "nimajelodari2002@gmail.com"
 
 <!---
