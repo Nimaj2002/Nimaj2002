@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nimaj2002
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Pytho
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python based projects
 - 📫 How to reach me "nimajelodari2002@gmail.com"
 - 🦾 Dont Forget to check my Repl.it "https://replit.com/@NimaJelodari"
