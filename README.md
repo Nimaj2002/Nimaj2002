@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Nimaj2002
+- 👋 Hi, I’m Nima jelodari
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning back-end development
-- 💞️ I’m looking to collaborate on Python based projects
+- 🌱 I’m currently learning low-level programing
+- 💞️ I’m looking to collaborate on Python\Cpp\rust based projects
 - 📫 How to reach me "nimajelodari2002@gmail.com"
-- 🦾 Dont Forget to check my Replit!!! "https://replit.com/@NimaJelodari"
+- 🦾 CS student
 
 <!---
 Nimaj2002/Nimaj2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
