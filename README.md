@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Nima jelodari
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning low-level programing
-- 💞️ I’m looking to collaborate on Python\Cpp\rust based projects
+- 👀 I Love Programming
+- 🌱 I’m currently masters student in SUT
+- 💞️ I’m looking to collaborate on Python\Cpp\Rust based projects
 - 📫 How to reach me "nimajelodari2002@gmail.com"
-- 🦾 CS student
+- 🦾 CS/CE student
 
 <!---
 Nimaj2002/Nimaj2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
