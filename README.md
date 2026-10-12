@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nima jelodari
 - 👀 I Love Programming
-- 🌱 I’m currently masters student in SUT
-- 💞️ I’m looking to collaborate on Python\Cpp\Rust based projects
+- 🌱 I’m currently masters student in Sabanci University
+- 💞️ I’m looking to collaborate on Python\Cpp\React based projects
 - 📫 How to reach me "nimajelodari2002@gmail.com"
 - 🦾 CS/CE student
 
